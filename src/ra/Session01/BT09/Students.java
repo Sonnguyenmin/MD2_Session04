@@ -77,7 +77,8 @@ public class Students {
     public void setPhone(String phone) {
         this.phone = phone;
     }
-    //-3.2. Method behavior
+    //-3.2. Method
+
     public void inputData(Scanner scanner) {
         //1. Nhap ma sinh vien: Gom 5 ky tu bat dau la sv, khoong strung lap
 //        System.out.print("Enter student ID: ");

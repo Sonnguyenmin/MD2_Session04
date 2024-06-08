@@ -66,7 +66,6 @@ public class Main {
             currentIndex++;
         }
     }
-    
     public static void updateStudent(Scanner scanner) {
         System.out.println("Nhập vào mã sinh viên cần cập nhật:");
         String studentId = scanner.nextLine();
